@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "documents/Resume_Michel_Pouleijn.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -58,4 +58,6 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+My unstoppable __positive energy__ is one of my **strongest** skills. It stimulates me to **innovate** and get the best out of myself and others. In the past 15+ years, I have led many different teams and we have achieved things that I could never imagine where **possible!** Seeing a person / team **grow** above themselves and doing things they never thought they would be able to do gives me all the energy I need to continue. Project **success** is my primary goal in any project and my tool belt with great business tools to help with that.
+
+In my spare time I am interested in technology, electronics, IoT, machine learning, running and most importantly my wife and 3 daughters.

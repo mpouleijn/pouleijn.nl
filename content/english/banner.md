@@ -1,24 +1,24 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Michel Pouleijn"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Michel"
+last_name : "POULEIJN"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Solutions Architect"
+- "Kubernetes Engineer"
+- "DevOps Engineer"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
+- "images/slider/station_vught.jpg"
+- "images/slider/fall-coffee.jpg"
 - "images/slider/slider-3.jpg"
 
 # button
 button:
-  enable : true
+  enable : false
   label : "HIRE ME"
   link : "#contact"
 
