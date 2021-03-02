@@ -1,26 +1,26 @@
 ---
-title: ""
+title: "Funfacts"
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
 - name : "HANDS TO WORK"
   image : "images/icons/works.png"
-  count : "100"
+  count : "1500"
   
 # funfacts item loop
 - name : "HAPPY CLIENT"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "58"
   
 # funfacts item loop
 - name : "FINISHED PROJECT"
   image : "images/icons/project.png"
-  count : "250"
+  count : "143"
   
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "UNCOUNTABLE CUPS OF COFFEE (addict)"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "9999"
 
 
 # custom style
