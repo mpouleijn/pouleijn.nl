@@ -18,7 +18,7 @@ spec:
         app: pouleijn-deployment
     spec:
       containers:
-      - image: docker.pkg.github.com/mpouleijn/pouleijn.nl/app:0.1.0
+      - image: mpouleijn/pouleijn:0.1.0
         name: app
         resources: {}
       imagePullSecrets:
